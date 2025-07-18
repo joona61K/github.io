@@ -12,7 +12,7 @@ const App: React.FC = () => {
         <h2>📄 CV</h2>
         <p>
           Lataa CV:{' '}
-          <a href="cv2.1-1.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="CV2.1-1.pdf" target="_blank" rel="noopener noreferrer">
             Klikkaa tästä (PDF)
           </a>
         </p>
